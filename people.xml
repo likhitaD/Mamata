@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<people>
+<persion id="1">
+<lastname>Kathane</lastname>
+<firstname>Mamta</firstname>
+</persion>
+
+<persion id="2">
+<lastname>Ghutke</lastname>
+<firstname>Kajal</firstname>
+</persion>
+</people>
